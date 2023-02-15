@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/passionproject/static/css/main.de9da329.css",
+    "main.js": "/passionproject/static/js/main.68ab2a81.js",
+    "static/media/video.mp4": "/passionproject/static/media/video.217bc138c2eb8d98fc50.mp4",
+    "static/media/HeroImage.webp": "/passionproject/static/media/HeroImage.bcbaea12d24406a960b4.webp",
+    "static/media/moon.jpeg": "/passionproject/static/media/moon.eb558145724de615b41d.jpeg",
+    "static/media/pod1.webp": "/passionproject/static/media/pod1.e0b02e3bba3d160152bc.webp",
+    "index.html": "/passionproject/index.html",
+    "main.de9da329.css.map": "/passionproject/static/css/main.de9da329.css.map",
+    "main.68ab2a81.js.map": "/passionproject/static/js/main.68ab2a81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de9da329.css",
+    "static/js/main.68ab2a81.js"
+  ]
+}
